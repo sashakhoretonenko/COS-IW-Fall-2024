@@ -1,0 +1,6 @@
+.venv/
+planning
+tang_games.db
+Games/
+scratchwork.py
+.DS_Store
