@@ -3,4 +3,5 @@ planning
 tang_games.db
 Games/
 scratchwork.py
-.DS_Store
+.DS_Store/
+cosIW/
